@@ -1,0 +1,2 @@
+C:\Users\Elhassan Makled\Documents\Work\TUI\PhD\Unity Projects\AR Product Showcase\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Elhassan Makled\Documents\Work\TUI\PhD\Unity Projects\AR Product Showcase\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
